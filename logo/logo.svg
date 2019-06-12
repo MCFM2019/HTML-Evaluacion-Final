@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <ellipse cx="96.500002" cy="99.5" fill="#b2b2b2" id="svg_3" rx="88" ry="85.000007" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <rect fill="#490505" height="101.857547" id="svg_26" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-1.66834 46.7027 99.9601)" width="15.129597" x="39.137921" y="49.031342"/>
+  <rect fill="#490505" height="102.886235" id="svg_27" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-1.66834 104.251 97.6092)" width="13.130445" x="97.685527" y="46.16609"/>
+  <rect fill="#514141" height="42.72618" id="svg_28" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-90.8517 134.175 100.126)" width="15.290587" x="126.529852" y="78.762702"/>
+  <path d="m54.490807,48.285231c-0.391305,-1.714311 18.782644,39.429161 18.586992,39.000583c-0.195653,-0.428578 19.369602,-39.857739 19.173949,-40.286317c-0.195653,-0.428578 0.978263,45.000673 0.78261,44.572095c-0.195653,-0.428578 -18.195687,33.857649 -18.391339,33.429072c-0.195653,-0.428578 -19.369602,-31.286182 -19.565254,-31.71476c-0.195653,-0.428578 -0.195653,-43.286362 -0.586958,-45.000673z" fill="#514141" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <path d="m129.046575,60.843265l-12.661457,-14.020807l8.338567,0l12.661457,14.020807l-12.661457,14.020795l-8.338567,0l12.661457,-14.020795z" fill="#b2b2b2" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <path d="m144.661444,60.500007l-12.661457,-14.020807l8.338567,0l12.661457,14.020807l-12.661457,14.020795l-8.338567,0l12.661457,-14.020795z" fill="#b2b2b2" id="svg_7" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <path d="m160.661444,60.500007l-12.661457,-14.020807l8.338567,0l12.661457,14.020807l-12.661457,14.020795l-8.338567,0l12.661457,-14.020795z" fill="#b2b2b2" id="svg_9" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+ </g>
+</svg>
